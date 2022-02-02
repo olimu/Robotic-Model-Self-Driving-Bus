@@ -24,3 +24,4 @@ Colab notebooks for training Neural Networks
 
 Results
 - raw data google sheet
+- raw data 4 vehicle model medians
