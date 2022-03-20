@@ -3,7 +3,7 @@ This code will control Raspberry Pi GPIO PWM on four GPIO
 pins. The code test ran with one TB6612N H-Bridge driver module connected.
 
 Inspired by Website:www.bluetin.io
-Date: July 14, 2021
+Date: Dec 14, 2021
 """
 
 from gpiozero import PWMOutputDevice
