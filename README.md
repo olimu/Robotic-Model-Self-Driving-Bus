@@ -1,4 +1,4 @@
-# autonomousvehicle2022
+# Robotic Model Self Driving Bus
 2022 Science Fair Project - Comparing Modular and Integrated Autonomous Vehicle Systems: Inspired by the Human Brain
 
 My school was delayed by 2 weeks this year because few drivers were willing to take the risk of contracting COVID from school kids. 
