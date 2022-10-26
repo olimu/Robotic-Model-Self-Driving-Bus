@@ -24,3 +24,6 @@ Results
 - data folder
   - videos of robot
   - worksheet with data from robot runs
+
+- 22ScienceFairPoster.pdf (poster from PRSEF competition explaining project)
+- 22ScienceFairSlides.pdf (slides from PJAS competition explaining project)
