@@ -26,6 +26,6 @@ video results
   - videos of robot
   - worksheet with data from robot runs
 
-presentations
-  - 22ScienceFairPoster.pdf (poster from PRSEF competition explaining project)
-  - 22ScienceFairSlides.pdf (slides from PJAS competition explaining project)
+
+SelfDrivingBus:VehiclePoster.pdf (poster from PRSEF competition explaining project)
+SelfDrivingBus:VehicleSlides.pdf (slides from PJAS competition explaining project)
