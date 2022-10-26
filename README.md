@@ -17,7 +17,7 @@ code
   - pi_communications.py (sets up wifi server and client to send data between the 2 rasberry Pis)
 
 - neural networks (Colab Notebooks)
-  - SighDetectingNetwork.ipynb
+  - SignDetectingNetwork.ipynb
   - PeopleDetectingNetwork.ipynb
   - PeopleandSignDetectingNetwork.ipynb
 
