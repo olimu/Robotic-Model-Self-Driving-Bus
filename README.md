@@ -9,21 +9,23 @@ I wanted to engineer an autonomous vehicle capable of reducing this need for hum
 My robot consists of two Raspberry Pi, one which uses two cameras for driving, detecting people and stop signs.
 The second Raspberry Pi receives instructions from the drive Pi, and uses a gyroscope sensor to command a motor driver to drive or turn the robot.
 
-drive programs
-- drive.py (drives the robot, staying between lines, runs people and stop sign neural networks)
-- motors.py (sets up motors to drive stright, turn left, turn right, drive backwards)
-- pid.py (sets of PID controller which allows for accurate turns)
-- pi_communications.py (sets up wifi server and client to send data between the 2 rasberry Pis)
+code
+- drive programs
+  - drive.py (drives the robot, staying between lines, runs people and stop sign neural networks)
+  - motors.py (sets up motors to drive stright, turn left, turn right, drive backwards)
+  - pid.py (sets of PID controller which allows for accurate turns)
+  - pi_communications.py (sets up wifi server and client to send data between the 2 rasberry Pis)
 
-neural networks (Colab Notebooks)
-- SighDetectingNetwork.ipynb
-- PeopleDetectingNetwork.ipynb
-- PeopleandSignDetectingNetwork.ipynb
+- neural networks (Colab Notebooks)
+  - SighDetectingNetwork.ipynb
+  - PeopleDetectingNetwork.ipynb
+  - PeopleandSignDetectingNetwork.ipynb
 
-Results
-- data folder
+
+video results
   - videos of robot
   - worksheet with data from robot runs
 
-- 22ScienceFairPoster.pdf (poster from PRSEF competition explaining project)
-- 22ScienceFairSlides.pdf (slides from PJAS competition explaining project)
+presentations
+  - 22ScienceFairPoster.pdf (poster from PRSEF competition explaining project)
+  - 22ScienceFairSlides.pdf (slides from PJAS competition explaining project)
