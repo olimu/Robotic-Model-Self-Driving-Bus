@@ -23,5 +23,6 @@ Colab notebooks for training Neural Networks
 - PeopleandStopMobilenetFullTune.ipynb
 
 Results
-- raw data google sheet
-- raw data 4 vehicle model medians
+- data folder
+  - videos of robot
+  - worksheet with data from robot runs
