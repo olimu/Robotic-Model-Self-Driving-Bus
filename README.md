@@ -1,13 +1,9 @@
 # Robotic Model Self Driving Bus
-2022 Science Fair Project - Comparing Modular and Integrated Autonomous Vehicle Systems: Inspired by the Human Brain
+Comparing Modular and Integrated Autonomous Vehicle Systems: Inspired by the Human Brain
 
-My school was delayed by 2 weeks this year because few drivers were willing to take the risk of contracting COVID from school kids. 
-Outside of school, minors can’t call ride-sharing services because of age restrictions placed after kids were kidnapped by drivers. 
-Additionally, many kids are abducted while waiting for transportation, even at school bus stops.  
-I wanted to engineer an autonomous vehicle capable of reducing this need for human drivers, and providing minors with a new safe mode of transportation.
+My school was delayed by 2 weeks this year because few drivers were willing to take the risk of contracting COVID from school kids. Outside of school, minors can’t call ride-sharing services because of age restrictions placed after kids were kidnapped by drivers. Additionally, many kids are abducted while waiting for transportation, even at school bus stops. I wanted to engineer an autonomous vehicle capable of reducing this need for human drivers, and providing minors with a new safe mode of transportation.
 
-My robot consists of two Raspberry Pi, one which uses two cameras for driving, detecting people and stop signs.
-The second Raspberry Pi receives instructions from the drive Pi, and uses a gyroscope sensor to command a motor driver to drive or turn the robot.
+My robot consists of a Perception Raspberry Pi  which processes camera data to sense lane lines, people, and stop signs. The Drive Pi receives instructions from the Perception Pi, using the motor driver and gyroscope to steer the robot.
 
 code
 - drive programs
@@ -27,5 +23,5 @@ video results
   - worksheet with data from robot runs
 
 
-SelfDrivingBus:VehiclePoster.pdf (poster from PRSEF competition explaining project)
-SelfDrivingBus:VehicleSlides.pdf (slides from PJAS competition explaining project)
+**SelfDrivingBus:VehiclePoster.pdf:** poster from the Pittsburgh Regional Science and Engineering Fair where I won sponsor awards from FedEx, Institute of Electrical and Electronics Engineers (Honorable Mention), and U.S. Air Force
+**SelfDrivingBus:VehicleSlides.pdf:** slides from the Pennsylvania Junior Academy of Science competition where I won 1st place and the Director's Award at the Region 7 competition and 1st place with a perfect score at the State competition in the Computer Science category
