@@ -5,7 +5,7 @@ My school was delayed by 2 weeks this year because few drivers were willing to t
 
 My robot consists of a Perception Raspberry Pi  which processes camera data to sense lane lines, people, and stop signs. The Drive Pi receives instructions from the Perception Pi, using the motor driver and gyroscope to steer the robot.
 
-**code**
+**code folder**
 - drive programs
   - drive.py (drives the robot, staying between lines, runs people and stop sign neural networks)
   - motors.py (sets up motors to drive stright, turn left, turn right, drive backwards)
